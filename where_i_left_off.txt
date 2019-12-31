@@ -1,0 +1,8 @@
+finished a good portion of the backend
+really want to get rid of the "_v: 0" at the end of objects
+post request for songs seems ok besides that
+double check that Date.now is behaving as it should
+@44:00 mark in https://www.youtube.com/watch?v=eB9Fq9I5ocs
+awaiting other requests and how the image urls will work (possible frontend?)
+push changes to git when backend is solid
+onto frontend tomorrow too hopefully!!!!
